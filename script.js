@@ -56,6 +56,7 @@ const showMovies = (data) => {
             <img alt="${result.original_title} Poster" class="movie-banner w-full h-64 rounded-lg mb-4" 
                  src="${imagePath}" />
             <h3 class="movie-title line-clamp-1 hover:line-clamp-none text-base font-bold">${result.original_title}</h3>
+            <p class="mt-2  text-sm text-pretty font-semibold"><span class="text-base font-bold">Release Date: </span> ${result.release_date}</p>
             <p class="mt-2 line-clamp-3 hover:line-clamp-none movie-sub-title text-sm text-pretty">${result.overview}</p>
         `;
 
