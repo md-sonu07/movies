@@ -1,6 +1,7 @@
 # Movie Search Website
 
 A simple movie search website built using HTML, Tailwind css, and JavaScript.
+<img src="https://drive.google.com/file/d/197TJP9KVom3LhxO8tSSeaSBnxGjEKY_a/view?usp=drive_link" >
 
 ## Features
 
@@ -9,11 +10,16 @@ A simple movie search website built using HTML, Tailwind css, and JavaScript.
 * Display movie details with poster, title, release date, and brief summary
 * Responsive design for desktop, tablet, and mobile devices
 
+
+
+
 ## Technologies Used
 
 * Front-end: HTML, tailwind css, JavaScript
 * API: [OMDB/TMDB/IMDb API]
 * Deployment: GitHub Pages
+
+
 
 ## How to Use
 
@@ -23,9 +29,13 @@ A simple movie search website built using HTML, Tailwind css, and JavaScript.
 4. Browse through search results and filter as needed
 5. Click or hover on a movie poster to view detailed information
 
+
+
 ## API Documentation
 
 * [OMDB/TMDB/IMDb API documentation]
+
+
 
 ## Contributing
 
@@ -35,11 +45,18 @@ Contributions are welcome! If you'd like to report a bug or suggest a feature:
 2. Fork the repository and make changes
 3. Submit a pull request
 
+
+
+
 ## License
 
 This project is licensed under the MIT License.
+
+
+
 
 ## Author
 
   * FOLLOW ME ON github! [https://danish-farhan07.github.io/]
   * FOLLOW ME ON Instagram! [https://www.instagram.com/danish_farhan07/]
+
