@@ -41,5 +41,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-  [FOLLOW ME ON github!]((https://danish-farhan07.github.io/))
-  [FOLLOW ME ON Instagram!]((https://www.instagram.com/danish_farhan07/))
+  [FOLLOW ME ON github!][https://danish-farhan07.github.io/]
+  [FOLLOW ME ON Instagram!] [https://www.instagram.com/danish_farhan07/]
