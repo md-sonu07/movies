@@ -1,6 +1,6 @@
 # Movie Search Website
 
-A simple movie search website built using HTML, Tailwind css, and JavaScript.
+A simple movie search website built using HTML, Tailwind css, and JavaScript. 
 <img src="https://drive.google.com/file/d/197TJP9KVom3LhxO8tSSeaSBnxGjEKY_a/view?usp=drive_link" >
 
 ## Features
