@@ -25,7 +25,7 @@
 
 ## How to Use
 
-1. Visit the website: [https://danish-farhan07.github.io/movies/]
+1. Visit the website: [https://md-sonu07.github.io/movies/]
 2. Enter a movie title in the search bar
 3. Press Enter or click the search icon
 4. Browse through search results and filter as needed
@@ -59,6 +59,6 @@ This project is licensed under the MIT License.
 
 ## Author
 
-  * FOLLOW ME ON github! [https://danish-farhan07.github.io/]
+  * FOLLOW ME ON github! [https://md-sonu07.github.io/]
   * FOLLOW ME ON Instagram! [https://www.instagram.com/danish_farhan07/]
 
